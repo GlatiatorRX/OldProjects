@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameControllerScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameControllerScript.js" Line="20" Column="20" />
+      <File FileName="Assets\Scripts\TriggerHint.js" Line="43" Column="51" />
+      <File FileName="Assets\Scripts\ValveScript.js" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\FloodScript.js" Line="40" Column="43" />
+      <File FileName="Assets\Scripts\RaycastScript.js" Line="156" Column="37" />
+      <File FileName="Assets\Scripts\KillScript.js" Line="8" Column="6" />
+      <File FileName="Assets\Scripts\LockingDoorScript.js" Line="19" Column="23" />
+      <File FileName="Assets\Scripts\UnpoweredDoorScript.js" Line="6" Column="8" />
+      <File FileName="Assets\Scripts\FloodCorridorScript.js" Line="18" Column="12" />
+      <File FileName="Assets\Scripts\MissingPowerScript1.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinScript.js" Line="19" Column="26" />
+      <File FileName="Assets\Scripts\DoorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HazardScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelDoorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelSelectScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoseScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissingPowerScript2.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PistonScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.js" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\CreditsScript.js" Line="13" Column="137" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

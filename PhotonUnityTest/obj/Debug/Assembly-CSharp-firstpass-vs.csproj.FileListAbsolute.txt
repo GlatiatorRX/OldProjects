@@ -1,0 +1,14 @@
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Photon3Unity3D.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\bin\Debug\Photon3Unity3D.xml
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp-firstpass.pdb

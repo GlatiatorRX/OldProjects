@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TerrainEditor.CSharp.Plugins", "UnityVS.TerrainEditor.CSharp.Plugins.csproj", "{7E999E33-9512-66FC-8C04-A051A453C941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TerrainEditor.CSharp", "UnityVS.TerrainEditor.CSharp.csproj", "{CF138502-9EAB-26BA-BB9D-6F83BBB05A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TerrainEditor.CSharp.Editor", "UnityVS.TerrainEditor.CSharp.Editor.csproj", "{BFBE53A0-9596-877E-3D97-38CEC27F1E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E999E33-9512-66FC-8C04-A051A453C941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E999E33-9512-66FC-8C04-A051A453C941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E999E33-9512-66FC-8C04-A051A453C941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E999E33-9512-66FC-8C04-A051A453C941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF138502-9EAB-26BA-BB9D-6F83BBB05A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF138502-9EAB-26BA-BB9D-6F83BBB05A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF138502-9EAB-26BA-BB9D-6F83BBB05A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF138502-9EAB-26BA-BB9D-6F83BBB05A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBE53A0-9596-877E-3D97-38CEC27F1E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBE53A0-9596-877E-3D97-38CEC27F1E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBE53A0-9596-877E-3D97-38CEC27F1E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBE53A0-9596-877E-3D97-38CEC27F1E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

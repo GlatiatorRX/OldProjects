@@ -1,0 +1,2 @@
+Simple encryption project. Takes in a message, provides a key, encrypts the message with the key, and reuses the key to decrypt the message back.
+Can be useful in many areas, but this is just a small scope example.

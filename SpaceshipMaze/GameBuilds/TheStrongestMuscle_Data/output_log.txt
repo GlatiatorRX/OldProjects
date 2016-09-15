@@ -1,0 +1,508 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.3182]
+    Renderer: NVIDIA GeForce GTX 765M 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.318 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity\StrongestMuscle\StrongestMuscle\GameBuilds\TheStrongestMuscle_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.579456 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder004'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'ChamferBox001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'ChamferBox002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Sphere003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Sphere004'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Sphere005'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Sphere006'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box003'
+ 
+(Filename:  Line: 1487)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 10544.
+Total: 3.231272 ms (FindLiveObjects: 0.732552 ms CreateObjectMapping: 0.101351 ms MarkObjects: 1.025916 ms  DeleteObjects: 0.656432 ms)
+
+UnloadTime: 36.370197 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder004'
+ 
+(Filename:  Line: 1487)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 8613.
+Total: 9.762238 ms (FindLiveObjects: 0.782587 ms CreateObjectMapping: 0.117601 ms MarkObjects: 1.316285 ms  DeleteObjects: 6.601528 ms)
+
+UnloadTime: 38.330086 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder003'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder004'
+ 
+(Filename:  Line: 1487)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 8613.
+Total: 4.546274 ms (FindLiveObjects: 1.020784 ms CreateObjectMapping: 0.315173 ms MarkObjects: 1.525830 ms  DeleteObjects: 0.425077 ms)
+
+UnloadTime: 37.346081 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 8359.
+Total: 7.565435 ms (FindLiveObjects: 0.916867 ms CreateObjectMapping: 0.168063 ms MarkObjects: 2.031305 ms  DeleteObjects: 3.228706 ms)
+
+UnloadTime: 35.655605 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 3309.
+Total: 14.828527 ms (FindLiveObjects: 0.339548 ms CreateObjectMapping: 0.091088 ms MarkObjects: 1.288488 ms  DeleteObjects: 11.854269 ms)
+
+UnloadTime: 11.158493 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.228876 ms (FindLiveObjects: 0.274119 ms CreateObjectMapping: 0.062863 ms MarkObjects: 1.007099 ms  DeleteObjects: 0.023520 ms)
+
+UnloadTime: 15.204853 ms
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Cylinder001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box001'
+ 
+(Filename:  Line: 1487)
+
+[mecanim]: BindSkeleton: cannot find Transform 'Box002'
+ 
+(Filename:  Line: 1487)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.741620 ms (FindLiveObjects: 0.339976 ms CreateObjectMapping: 0.076975 ms MarkObjects: 1.231184 ms  DeleteObjects: 0.029079 ms)
+

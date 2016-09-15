@@ -1,0 +1,12 @@
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Matt\Documents\School\SeniorProject\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp-firstpass.pdb

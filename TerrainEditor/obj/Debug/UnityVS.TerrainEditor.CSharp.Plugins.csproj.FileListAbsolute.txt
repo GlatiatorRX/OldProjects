@@ -1,0 +1,13 @@
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\obj\Debug\UnityVS.TerrainEditor.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Matt\Documents\School\TerrainEditor\TerrainEditor\obj\Debug\Assembly-CSharp-firstpass.pdb

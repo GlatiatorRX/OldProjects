@@ -1,0 +1,3 @@
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\UnityVS.SeniorProject.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp.dll
+C:\Users\Matt\Documents\School\SeniorProject\obj\Debug\Assembly-CSharp.pdb

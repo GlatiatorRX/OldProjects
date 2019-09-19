@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\bin\Debug\PatternsApp.exe.config
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\bin\Debug\PatternsApp.exe
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\bin\Debug\PatternsApp.pdb
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\obj\Debug\PatternsApp.csprojAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\obj\Debug\PatternsApp.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\obj\Debug\PatternsApp.exe
+C:\Users\Matt\Documents\GitHub\PatternsApp\PatternsApp\obj\Debug\PatternsApp.pdb

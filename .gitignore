@@ -1,0 +1,9 @@
+/CatLikeCodingTutorials/Fractal/Library
+/CatLikeCodingTutorials/Fractal/ProjectSettings/*.asset
+/CatLikeCodingTutorials/FramesPerSecond/Builds/FramesPerSecond_Data/Managed/*.dll
+/CatLikeCodingTutorials/FramesPerSecond/Builds/FramesPerSecond_Data/Managed/*.mdb
+*.dll
+*.bin
+*.info
+/CatLikeCodingTutorials/FramesPerSecond/Library/metadata/00
+/CatLikeCodingTutorials/FramesPerSecond/Library/*

@@ -6,3 +6,7 @@ Most of these projects are on old versions. Looking at the scripts is possible, 
 Most core functionailty should be still be intact, but certain assets may be missing or deprecated.
 
 If you have any questions about the scripts, feel free to message me.
+
+UPDATE SEPTEMBER 18TH 2019*****
+
+Uploaded more recent projects that follow CatLikeCoding tutorials in unity, projects that follow Python courses, and projects of basic design patterns for study.
